@@ -1,0 +1,4 @@
+method,success,initial_guess_seconds,correction_seconds,total_seconds,optimizer_evaluations,miss_distance_km,dv_total_kms,error
+Lambert + physical shooting,True,0.03185720008332282,0.8720372000243515,0.9038944001076743,16,2.5979058744091785e-05,9.630280586654605,
+ML + physical shooting,True,0.0005095000378787518,1.0697131999768317,1.0702227000147104,20,1.4764813785713925e-05,9.630280586655237,
+TOF search (ML-guided),,,,8.634076299960725,,,,
